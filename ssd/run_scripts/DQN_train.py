@@ -37,7 +37,7 @@ def parse_args():
         help="length of training rollouts AND length at which env is reset",
     )
     parser.add_argument(
-        "--total-episodes",
+        "--episode-len",
         type=int,
         default=1e8,
         help="Number of environment episodes",
