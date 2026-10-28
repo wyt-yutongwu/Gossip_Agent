@@ -1,4 +1,4 @@
-# Gossip Agents: Reputation through Opinion Dynamics over Evolving Networks
+# Gossip Agents: Reputation through Opinion Dynamics over Evolving Networks(https://arxiv.org/abs/2610.22674)
 
 This repository contains the code for the paper **Gossip Agents: Reputation through Opinion Dynamics over Evolving Networks**, multi-agent reinforcement learning agents that build and use reputation through opinion dynamics over evolving networks.
 
